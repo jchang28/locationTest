@@ -36,7 +36,7 @@
     MBProgressHUD *parseRetrieveUserDataHUD = [MBProgressHUD showHUDAddedTo:self.view
                                                       animated:YES];
     //parseRetrieveUserDataHUD.mode = MBProgressHUDModeText;
-    parseRetrieveUserDataHUD.labelText = @"Retrieving user data...";
+    parseRetrieveUserDataHUD.labelText = @"Building user data...";
     
     
 }
